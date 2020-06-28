@@ -25,7 +25,13 @@ const SignUp: React.FC = () => {
             <Input name="nome" icon="user" placeholder="Nome" />
             <Input name="email" icon="mail" placeholder="E-mail" />
             <Input name="senha" icon="lock" placeholder="Senha" />
-            <Button>Cadastrar</Button>
+            <Button
+              onPress={() => {
+                navigation.navigate('Details');
+              }}
+            >
+              Cadastrar
+            </Button>
           </Content>
         </ScrollView>
         <Back
