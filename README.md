@@ -19,7 +19,9 @@ Um protótipo da aplicação pode ser visualizado no [Figma](https://www.figma.c
 
 # Tecnologias usadas
 
-* [Figmatphttps://www.figma.com* [Expo](https://expo.io/)
+* [Figma](https://www.figma.com/)
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Expo](https://expo.io/)
 
 # Projetos futuros
 
