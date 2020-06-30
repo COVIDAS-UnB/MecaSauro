@@ -27,6 +27,10 @@ function enterQ() {
   return 2;
 }
 
+const styleded = {
+  fill: 'currentColor',
+};
+
 const Details: React.FC = () => {
   const navigation = useNavigation();
   const [heart, setHeart] = React.useState(false);
@@ -47,6 +51,7 @@ const Details: React.FC = () => {
               }}
             >
               <HeartIcon name="heart" size={20} color="#fff" />
+              <Icon name="heart" style={styleded} />
             </HeartSquare>
           </TopBar>
           <QButton onPress={enterQ} title="Entrar na fila" />
