@@ -38,9 +38,9 @@ O protótipo do design para o aplicativo pode ser conferido no [Figma](https://w
 
 # Documentos
 
-* [Descrição do projeto](https://github.com/COVIDAS-UnB/MecaSauro/blob/dev/docs/descricao.pdf)
-* [Cronograma de atividades](https://github.com/COVIDAS-UnB/MecaSauro/blob/dev/docs/cronograma_atividades.pdf)
-* [Cronograma de despesas](https://github.com/COVIDAS-UnB/MecaSauro/blob/dev/docs/cronograma_despesas.pdf)
+* [Descrição do projeto](https://github.com/COVIDAS-UnB/MecaSauro/blob/master/docs/descricao.pdf)
+* [Cronograma de atividades](https://github.com/COVIDAS-UnB/MecaSauro/blob/master/docs/cronograma_atividades.pdf)
+* [Cronograma de despesas](https://github.com/COVIDAS-UnB/MecaSauro/blob/master/docs/cronograma_despesas.pdf)
 
 # Equipe
 
