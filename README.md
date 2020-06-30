@@ -15,11 +15,6 @@ O projeto visa manter certo distanciamento social nos campi UnB por meio do cont
 A aplicação permite que o usuário (possível cliente) localize vendedores cadastrados no mapa e reserve um local na fila para comprar. Essa fila é virtual, permitindo que o usuário fique em um local longe do vendedor e, assim, evite a aglomeração ao redor do vendedor. Quando for o momento de ser atendido, o usuário recebe uma notificação indicando que pode ir até o vendedor. Nesse meio tempo, o possível cliente pode entrar em contato com o vendedor por meio do Whatsapp para uma melhor comunicação. É possível também selecionar vendedores favoritos, para quando eles ficarem disponíveis, o usuário ser notificado do seu local.
 
 Quanto ao vendedor cadastrado no aplicativo, a aplicação permite que ele insira seu local de venda no mapa a fim de compartilhar com os possíveis clientes. No entanto, caso haja outro vendedor por perto, a escolha da posição só é possível quando feita a partir de uma distância segura. Ao vendedor, também é permitido o controle da fila virtual, para que veja os pedidos e confirme a entrega ou não do produto, como também indicar se está disponível ou não para as vendas.
-<<<<<<< HEAD
-=======
-Um protótipo da aplicação pode ser visualizado no [Figma](https://www.figma.com/proto/gjslIK79VqYLD1asqsyBXv/Animado-COVIDAS?node-id=126%3A76&scaling=scale-down), usando a ferramente Present.
-
->>>>>>> ed0f45502158190dc4d5f87e201932f9d72717f6
 # Tecnologias usadas
 
 * [Figma](https://www.figma.com/)

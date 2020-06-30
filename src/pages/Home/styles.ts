@@ -27,8 +27,6 @@ export const Card = styled.View`
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   align-items: center;
-
-  box-shadow: '0px -2px 4px';
 `;
 
 export const Tabs = styled.View`
